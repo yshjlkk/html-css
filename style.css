@@ -1,0 +1,16 @@
+p {
+  color: blue;
+  font-size: 16px;
+}
+
+
+/* CLASSES */
+.texte-rouge {
+  color: red;
+}
+
+
+/* ID */
+#texte-vert {
+  color: green;
+}
