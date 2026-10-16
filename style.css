@@ -14,3 +14,29 @@ p {
 #texte-vert {
   color: green;
 }
+
+
+a {
+  transition: background-color 2s;
+}
+
+a:hover {
+  background-color: gold;
+}
+
+
+.boite-block {
+display: block;
+}
+
+.boite-inline {
+display: inline;
+}
+
+
+
+/* 
+
+
+*/
+
